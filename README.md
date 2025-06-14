@@ -32,7 +32,7 @@ A 2D space-themed game built with p5.js where players control a spaceship to col
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. For major changes, open an issue first to discuss your ideas.
 
 ## Support the Project
-If you enjoy Starlight Collector, consider supporting its development through [GitHub Sponsors](https://github.com/sponsors/your-username). Your support helps maintain and improve this project!
+If you enjoy Starlight Collector, consider supporting its development through [GitHub Sponsors](https://github.com/sponsors/ataullamanah). Your support helps maintain and improve this project!
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
